@@ -7,3 +7,4 @@ edition = "2021"
 rlp = "0.5.2"
 memmap = "0.7.0"
 hex = "0.4.3"
+clap = { version = "4.0.26", features = ["derive"] }
